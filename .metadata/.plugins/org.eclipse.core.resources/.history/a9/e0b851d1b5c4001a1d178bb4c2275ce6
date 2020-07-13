@@ -1,0 +1,29 @@
+import java.util.Scanner;
+public class Test {
+	
+	int m;
+	int n;
+	
+	void test(int m,int n)
+	{
+		System.out.println("The value of m is " +m);
+		
+	}
+	
+
+	public static void main(String[] args) {
+		Test t1 =new Test();
+		t1.test(34,45);
+		
+		
+		
+		
+		
+		
+		
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}
